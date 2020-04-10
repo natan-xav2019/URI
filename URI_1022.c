@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+/*https://www.urionlinejudge.com.br/judge/pt/problems/view/1022*/
 int main() {
   int N,N1,N2,D1,D2,max,cont[2];
   int numerador,numeradorAlt, denominador,denominadorAlt;
